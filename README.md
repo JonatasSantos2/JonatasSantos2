@@ -2,15 +2,19 @@
 
 <img height="300em" src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyeDV2dW81d2JiZ2Vzb2UzOWs4dzFjajcwOW14OTJua2lrb2N6MWw4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Pessoa codando com dois monitores" />
 
--🧑‍💼 Hoje, trabalho como especialista em Indústria Farmacêutica, sou formado em Téc. em Enfermagem e fiz alguns semestres em Biomedicina.
+---
 
--🎓 Atualmente estou estudando Análise e Desenvolvimento de Sistemas, pela UNICSUL.
+* 🧑‍💼 Hoje, trabalho como especialista em Indústria Farmacêutica, sou formado em Téc. em Enfermagem e fiz alguns semestres em Biomedicina.
 
-- Sempre gostei de computadores, em entender como o sistema funciona e de saber como resolver seus conflitos.
+* 🎓 Atualmente estou estudando Análise e Desenvolvimento de Sistemas, pela UNICSUL.
 
--📈 Hoje, foco nessa área que sempre me despertou tanto interesse, onde o auge é de chegar como Dev Full-Stack.
+* Sempre gostei de computadores, em entender como o sistema funciona e de saber como resolver seus conflitos.
 
--🤓 Tenho muita vontade de aprender, principalmente facilidade, então acredito apenas que, tudo depende apenas de mim, por mais que seja complicato, sei que consigo.
+* 📈 Hoje, foco nessa área que sempre me despertou tanto interesse, onde o auge é de chegar como Dev Full-Stack.
+
+* 🤓 Tenho muita vontade de aprender, principalmente facilidade, então acredito apenas que, tudo depende apenas de mim, por mais que seja complicato, sei que consigo.
+
+---
 
  <div>
   <a href="https://[github.com/rafaballerini](https://www.linkedin.com/in/jonatas-silva-santos-994369192/)">
